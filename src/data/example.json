@@ -1,0 +1,35 @@
+{
+  "title": "넓은 띠 갱지가다 1호",
+  "images": {
+    "topBanner": "http://image1.coupangcdn.com/image/vendor_inventory/17a6/84579d22887412458784f6efd08f9ab19c358d4a40e03b10e4c4669ae715.png",
+    "midBanner": "http://image1.coupangcdn.com/image/vendor_inventory/a327/2e92e41169451810b5ed0ca8fd541cbf83fe9efd9618f9d6845e1478999f.png",
+    "product": [
+      "http://image1.coupangcdn.com/image/vendor_inventory/a28e/d919e4a65dd207d2e814de6a1e974ee535cd51b02789f1a74884f0894c10.jpg",
+      "http://image1.coupangcdn.com/image/vendor_inventory/6210/2b1e1c9ae3de8838881d6235c19b169964fb47099fc8844fdf983c5f5bda.jpg",
+      "http://image1.coupangcdn.com/image/vendor_inventory/4678/fde6eadf3a0dc7925304cf687020e14adbe6af3c463b4d23b92d6be76468.jpg"
+    ],
+    "colorMaterial": "http://image1.coupangcdn.com/image/vendor_inventory/1fc8/f986ede78a673c0177b094b5284d0d34c4649053ba4522bd477ab26209d3.jpg",
+    "packaging": [
+      "http://image1.coupangcdn.com/image/vendor_inventory/1fc8/f986ede78a673c0177b094b5284d0d34c4649053ba4522bd477ab26209d3.jpg",
+      "http://image1.coupangcdn.com/image/vendor_inventory/6210/2b1e1c9ae3de8838881d6235c19b169964fb47099fc8844fdf983c5f5bda.jpg"
+    ],
+    "bottomBanner": "http://image1.coupangcdn.com/image/vendor_inventory/15f6/cd5f01c8721ef73b585de4c6dc16a1c7f64d51e5ecc1859ecf2ade1fa146.png"
+  },
+  "specs": {
+    "headers": ["품명", "원형 지름(mm)", "띠 길이(mm)", "띠 폭(mm)"],
+    "rows": [
+      ["넓은 띠 갱지가다 1호", "150", "555", "80"],
+      ["넓은 띠 갱지가다 2호", "180", "650", "80"],
+      ["갱지가다 미니", "120", "450", "60"],
+      ["갱지가다 1호", "150", "555", "60"],
+      ["갱지가다 2호", "180", "650", "60"],
+      ["갱지가다 3호", "210", "750", "60"],
+      ["갱지가다 4호", "240", "805", "60"]
+    ]
+  },
+  "colorMaterial": "백색 / 노루지",
+  "packagingUnit": {
+    "name": "넓은 띠 갱지가다 1호",
+    "unit": "700장 / 1곽"
+  }
+}

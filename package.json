@@ -1,0 +1,18 @@
+{
+  "name": "hjfood_dongsim_pdp_generator",
+  "version": "1.0.0",
+  "description": "한중식품 동심 상품 상세 페이지(PDP) 생성기",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^25.11.0",
+    "sharp": "^0.35.4"
+  }
+}

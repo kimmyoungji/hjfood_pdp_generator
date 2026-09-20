@@ -1,0 +1,61 @@
+{
+  "title": "하트모양 갱지가다 3호 하트시트만",
+  "images": {
+    "topBanner": "http://image1.coupangcdn.com/image/vendor_inventory/17a6/84579d22887412458784f6efd08f9ab19c358d4a40e03b10e4c4669ae715.png",
+    "midBanner": "http://image1.coupangcdn.com/image/vendor_inventory/a327/2e92e41169451810b5ed0ca8fd541cbf83fe9efd9618f9d6845e1478999f.png",
+    "bottomBanner": "http://image1.coupangcdn.com/image/vendor_inventory/15f6/cd5f01c8721ef73b585de4c6dc16a1c7f64d51e5ecc1859ecf2ade1fa146.png",
+    "product": [
+      {
+        "src": "../img/S-GADA-HEART-003/product-1.jpg",
+        "rotate": 90
+      },
+      {
+        "src": "../img/S-GADA-HEART-003/product-2.jpg",
+        "rotate": 90
+      }
+    ],
+    "colorMaterial": "../img/S-GADA-HEART-003/color-material.jpg",
+    "packaging": [
+      "../img/S-GADA-HEART-003/packaging-1.jpg"
+    ]
+  },
+  "specs": {
+    "headers": [
+      "품명",
+      "하트시트 가로*세로(mm)",
+      "띠 길이(mm)",
+      "띠 폭(mm)"
+    ],
+    "rows": [
+      [
+        "하트모양 갱지가다 미니",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "하트모양 갱지가다 1호",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "하트모양 갱지가다 2호",
+        "200*185",
+        "750",
+        "60"
+      ],
+      [
+        "하트모양 갱지가다 3호",
+        "235*210",
+        "805",
+        "60"
+      ]
+    ]
+  },
+  "colorMaterial": "흰색 / 노루지",
+  "packagingUnit": {
+    "name": "하트모양 갱지가다 3호 하트시트만",
+    "unit": "500장/1상자"
+  }
+}
